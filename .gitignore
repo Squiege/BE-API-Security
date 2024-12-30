@@ -1,0 +1,19 @@
+.env
+*.log
+*.tmp
+node_modules/
+dist/
+*.mp4
+
+# Node modules (if applicable)
+node_modules/
+
+# Python cache files
+__pycache__/
+
+# Log files
+*.log
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
